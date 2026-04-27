@@ -1,7 +1,5 @@
 # 🛡️ AI-Driven Zero-Trust Web Security Platform
 
-## 📄 Project Proposal README
-
 ---
 
 ## 📌 Overview
