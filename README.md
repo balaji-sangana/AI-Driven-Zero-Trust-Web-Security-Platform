@@ -7,6 +7,7 @@
 This project proposes an AI-powered adaptive web security platform designed to protect modern web applications from evolving cyber threats. The system integrates a reverse proxy, machine learning-based anomaly detection, a web application firewall, and centralized monitoring to deliver an enterprise-grade, bank-inspired security architecture.
 
 The platform combines technologies such as Nginx, ModSecurity, and the ELK stack to enable real-time threat detection, automated response mechanisms, and comprehensive visibility across the web infrastructure.
+
 ---
 
 ## 🎯 Objectives
