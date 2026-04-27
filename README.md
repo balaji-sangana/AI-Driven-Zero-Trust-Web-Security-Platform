@@ -219,14 +219,7 @@ Requests are forwarded to Microsoft IIS 10 with hardened configurations.
 
 * Requires training data for AI models
 * Needs continuous tuning
-* Not a replacement for compliance certifications (ISO, PCI-DSS)
-
----
-
-## 🧪 Testing & Tools
-
-* Burp Suite
-* Nmap
+* Not a replacement for compliance certifications
 
 ---
 <!--
@@ -261,10 +254,11 @@ The proposed **AI-Driven Zero-Trust Web Security Platform** provides a scalable 
 This initiative positions the organization towards **enterprise-grade security readiness** while ensuring scalability and operational efficiency.
 
 ---
-
+<!--
 ## 👨‍💻 Author
 
 **Balaji Sangana**
 Cybersecurity Enthusiast | Penetration Tester | Developer
 
 ---
+-->
